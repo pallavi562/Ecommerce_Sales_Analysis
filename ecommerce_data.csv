@@ -1,0 +1,11 @@
+Order_ID,Customer_ID,Product_Name,Category,Quantity,Price,Rating
+101,C001,Laptop,Electronics,1,50000,4
+102,C002,Mobile,Electronics,2,15000,5
+103,C003,Shoes,Fashion,3,2000,4
+104,C001,T-Shirt,Fashion,2,500,5
+105,C004,Headphones,Electronics,1,2000,3
+106,C005,Watch,Fashion,1,1500,4
+107,C006,Tablet,Electronics,1,12000,5
+108,C007,Backpack,Fashion,2,800,3
+109,C008,Camera,Electronics,1,25000,5
+110,C009,Sunglasses,Fashion,1,1200,4
